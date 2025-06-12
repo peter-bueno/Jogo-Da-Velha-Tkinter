@@ -24,8 +24,6 @@ Objetivo:
 - [x] Python 
 - [x] Tkinter
 
-> *Adapte conforme seu stack*
-
 ---
 
 ## ⚙️ Como Rodar o Projeto
