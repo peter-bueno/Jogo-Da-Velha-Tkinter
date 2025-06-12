@@ -1,1 +1,39 @@
-#Jogo-Da-Velha-com-TKinter
+# Jogo da Velha
+
+Projeto Desenvolvido para estudos
+---
+
+##  Demonstração
+
+![print do projeto](img/jvelha.jpg)
+
+---
+
+## 🧠 Sobre o Projeto
+
+Objetivo:
+
+- Entender melhor funcionamento de listas com Python
+- Entender como manipular elementos com Tkinter
+- Fazer uma GUI funcional do classico Jogo da Velha
+
+---
+
+## 🛠️ Tecnologias Usadas
+
+- [x] Python 
+- [x] Tkinter
+
+> *Adapte conforme seu stack*
+
+---
+
+## ⚙️ Como Rodar o Projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/peter-bueno/Jogo-Da-Velha-Tkinter.git
+
+
+# Rode a main
+py main.py
