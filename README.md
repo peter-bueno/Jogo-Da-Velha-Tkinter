@@ -1,9 +1,9 @@
-# Jogo da Velha
+# Jogo da Velha Tkinter
 
-Projeto Desenvolvido para estudos
+## Projeto Desenvolvido para estudos
 ---
 
-##  Demonstração
+###  Demonstração
 
 ![print do projeto](img/jvelha.jpg)
 
@@ -13,7 +13,7 @@ Projeto Desenvolvido para estudos
 
 Objetivo:
 
-- Entender melhor funcionamento de listas com Python
+- Praticar manipulação de matrizes e listas com Python
 - Entender como manipular elementos com Tkinter
 - Fazer uma GUI funcional do classico Jogo da Velha
 
