@@ -3,13 +3,13 @@
 ## Projeto Desenvolvido para estudos
 ---
 
-###  Demonstração
+###  Demonstração:
 
 ![print do projeto](img/jvelha.jpg)
 
 ---
 
-## 🧠 Sobre o Projeto
+## Sobre o Projeto
 
 Objetivo:
 
@@ -19,14 +19,14 @@ Objetivo:
 
 ---
 
-## 🛠️ Tecnologias Usadas
+## Tecnologias Usadas
 
 - [x] Python 
 - [x] Tkinter
 
 ---
 
-## ⚙️ Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ```bash
 # Clone o repositório
